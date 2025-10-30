@@ -1,3 +1,5 @@
+// Ameed Halabi & Lotem Sharir
+
 // EX #1 :
 
 const num = 30; // creating a number .
@@ -26,6 +28,7 @@ for (let i=0 ; i<arr.length ; i++)
   count += Number(arr[i] == 0) ;  
 }
 console.log(count) ;
+
 
 
 
