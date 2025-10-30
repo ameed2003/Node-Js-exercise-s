@@ -1,3 +1,5 @@
+// Ameed Halabi & Lotem Sharir
+
 // EX #2 :
 
 let flag = true;
@@ -12,3 +14,4 @@ for (let i = 1; i < 237; i++)
   if (flag == true) console.log(i);
   flag = true; // Reseting flag for the next number .
 }
+
