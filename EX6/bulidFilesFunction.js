@@ -1,3 +1,9 @@
+/*
+Ameed Halabi 325274637
+Lotem Sharir 305245193
+50/1
+*/
+
 const { randomInt } = require("crypto");
 const fs = require("fs");
 const path = require("path");
@@ -24,4 +30,5 @@ function bulidInputFiles()
   }
 }
 bulidInputFiles();
+
 
