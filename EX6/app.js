@@ -1,3 +1,8 @@
+/*
+Ameed Halabi 325274637
+Lotem Sharir 305245193
+50/1
+*/
 // משתנים וייבוא ספריות  :
 
 const fs = require("fs");
@@ -27,3 +32,4 @@ for (
 }
 // adding the array content into the folder .
 fs.writeFileSync(FillFolder, arr.join("\n"), "utf8");
+
